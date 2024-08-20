@@ -5,5 +5,5 @@ I'm Yerin Nam 😊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerinNam)](https://github.com/anuraghazra/github-readme-stats)]
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nyl0522)](https://velog.io/@nyl0522/posts)]
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nyl0522)](https://velog.io/@nyl0522/posts)]]
 > 현재 하고 있지 않습니다
