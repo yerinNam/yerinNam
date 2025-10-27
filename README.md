@@ -32,6 +32,6 @@ Hi! I'm **Yerin Nam** (남예린) 😊
 ### 🚀 About Me
 
 🌱 Currently exploring **Vision-Language Reasoning** & **Reliable AI**  
-🔭 Passionate about **LLM/VLM fine-tuning**, **RAG systems**, and **data-centric pipelines**  
+🔭 Passionate about **LLM/VLM fine-tuning**, **RAG systems**, and **Explainable AI**
 📚 Interested in connecting **real-world engineering** with **research-grade AI**
 
