@@ -15,7 +15,7 @@ Hi! I'm **Yerin Nam** (남예린) 😊
 ### 💻 Tech Stack
 
 🧠 AI / ML: Python, PyTorch, Transformers, LLMs, Vision-Language Models  
-🌐 Web / System: HTML5, JavaScript, Playwright
+🌐 Web / System: HTML5, JavaScript, Playwright <br>
 ⚙️ Tools: Git, VSCode, Docker, MySQL, Linux
 
 ---
