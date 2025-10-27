@@ -8,7 +8,8 @@ Hi! I'm **Yerin Nam** (남예린) 😊
 
 ### 🌐 Connect with me
 
-[![Blog](https://img.shields.io/badge/Blog-0A66C2?logo=blogger&logoColor=white&style=flat-square)](https://blog.naver.com/nyl0522)  
+[![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white&style=flat-square)](https://velog.io/@nyl0522/posts)
+
 [![Mail](https://img.shields.io/badge/Email-ef4444?logo=gmail&logoColor=white&style=flat-square)](mailto:nyl0522@naver.com)
 
 ---
