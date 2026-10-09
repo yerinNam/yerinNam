@@ -2,6 +2,7 @@
 
 Hi! I'm **Yerin Nam** (남예린) 😊  
 🎓 M.S. Student @ **KAIST**, Graduate School of Culture Technology  
+💼 Intern @ **LG AI Research**, Language Lab (DDU) · 7 months  
 🏫 Graduated from **Seoul National University of Science and Technology**, Department of **Artificial Intelligence Applications**
 
 ---
