@@ -1,8 +1,8 @@
 ## 👋 Hi there!
 
 Hi! I'm **Yerin Nam** (남예린) 😊  
-🎓 Undergraduate Student @ **Seoul National University of Science and Technology**  
-💡 Department of **Artificial Intelligence Applications**
+🎓 M.S. Student @ **KAIST**, Graduate School of Culture Technology  
+🏫 Graduated from **Seoul National University of Science and Technology**, Department of **Artificial Intelligence Applications**
 
 ---
 
