@@ -9,7 +9,7 @@ Hi! I'm **Yerin Nam** (남예린) 😊
 
 ### 🌐 Connect with me
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white&style=flat-square)](https://velog.io/@nyl0522/posts) [![Mail](https://img.shields.io/badge/Email-ef4444?logo=gmail&logoColor=white&style=flat-square)](mailto:nyl0522@naver.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white&style=flat-square)](https://velog.io/@nyl0522/posts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/%EC%98%88%EB%A6%B0-%EB%82%A8-592977335/) [![Mail](https://img.shields.io/badge/Email-ef4444?logo=gmail&logoColor=white&style=flat-square)](mailto:nyl0522@naver.com)
 
 ---
 
